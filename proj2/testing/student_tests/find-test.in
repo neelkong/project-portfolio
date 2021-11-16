@@ -1,0 +1,5 @@
+# testing the find method
+I setup.inc
+> find "a is a wug"
+
+
