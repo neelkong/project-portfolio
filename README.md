@@ -3,7 +3,7 @@ Collection of my work
 
 
 
-Hi! Welcome to my project portfolio. 
+# Hi! Welcome to my project portfolio. 
 
 In the AI Projects folder, I have included all projects I worked on during my CS188 Introduction to Artificial Intelligence Club.
 
