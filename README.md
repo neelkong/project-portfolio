@@ -1,13 +1,10 @@
-# project-portfolio
-Collection of my work
-
 
 
 # Hi! Welcome to my project portfolio. 
 
-In the AI Projects folder, I have included all projects I worked on during my CS188 Introduction to Artificial Intelligence Club.
+### In the AI Projects folder, I have included all projects I worked on during my CS188 Introduction to Artificial Intelligence Club.
 
-All other folders are an array of projects from many different areas I have worked on. 
+### All other folders are an array of projects from many different areas I have worked on. 
 
 **Ants**: A parody of the classic mobile game, Plants vs. Zombies. I used Object Oriented Programming with the Python coding language to make a game in which the player
 operates as the Ants. The goal is to strategically place down ants to ward off incoming waves of Bees.
