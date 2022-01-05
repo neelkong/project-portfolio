@@ -2,7 +2,7 @@
 
 # Hi! Welcome to my project portfolio. 
 
-### In the AI Projects folder, I have included all projects I worked on during my CS188 Introduction to Artificial Intelligence Club.
+### In the AI Projects folder, I have included all projects I worked on during my CS188 Introduction to Artificial Intelligence Class.
 
 ### All other folders are an array of projects from many different areas I have worked on. 
 
